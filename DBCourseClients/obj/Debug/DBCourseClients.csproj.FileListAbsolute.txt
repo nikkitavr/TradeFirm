@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\DBCourseClients\bin\Debug\DBCourseClients.exe.config
+C:\Users\Admin\source\repos\DBCourseClients\bin\Debug\DBCourseClients.exe
+C:\Users\Admin\source\repos\DBCourseClients\bin\Debug\DBCourseClients.pdb
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.Catalog.resources
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.LoginForm.resources
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.Properties.Resources.resources
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.Registration.resources
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.exe
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.pdb
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.MainForm.resources
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.Orders.resources
+C:\Users\Admin\source\repos\DBCourseClients\obj\Debug\DBCourseClients.UserInfo.resources
