@@ -1,2 +1,2 @@
 # TradeFirm
-Realization of a web-app for trade firm. Task for course work on discipline 'Databses' in SPBPU
+Realization of c# win-forms app for a trade firm with MSSQL Server. Task for course work on discipline 'Databses' in SPBPU
